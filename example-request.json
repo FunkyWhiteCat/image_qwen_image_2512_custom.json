@@ -1,0 +1,26 @@
+{
+  "input": {
+    "workflow": {
+      "60": {
+        "inputs": {
+          "filename_prefix": "Qwen-Image-2512",
+          "images": [
+            "238",
+            0
+          ]
+        },
+        "class_type": "SaveImage",
+        "_meta": {
+          "title": "SaveImage"
+        }
+      },
+      "238": {
+        "inputs": {},
+        "class_type": "c3c58f7e-2004-43ae-8b06-a956294bf7f4",
+        "_meta": {
+          "title": "c3c58f7e-2004-43ae-8b06-a956294bf7f4"
+        }
+      }
+    }
+  }
+}
